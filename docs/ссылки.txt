@@ -1,0 +1,76 @@
+(Загрузчик модулей RequireJS) http://stepansuvorov.com/blog/2012/10/загрузчик-модулей-requirejs/
+                              http://requirejs.org/
+							  http://requirejs.org/docs/download.html#2-1-16
+							  ( https://www.nuget.org/packages/RequireJS/2.1.16 )
+							  http://habrahabr.ru/post/225931/
+							  http://inching.org/2014/06/08/angular-requirejs/
+							  https://github.com/shyamseshadri/angularjs-book
+							  ( http://localhost/angularjs/angularjs-book/chapter4/guthub/ )
+
+                 (AngularJS + RequireJS + Jasmine + Karma - пусть все живут мирно) iantonov.me/page/yeoman-generator-proektov-dlja-angularjs
+(Personal Maps: тестирование AngularJS сервиса с помощью Jasmine и Karma. Часть 5) http://www.simplecoding.org/personal-maps-testirovanie-angularjs-servisa-s-pomoshhyu-jasmine-i-karma-chast-5.html
+                                                                                   http://personal-maps.simplecoding.org/site/contact
+																				   
+(trackr: An AngularJS app with a Java 8 backend - Part ||) http://blog.techdev.de/trackr-an-angularjs-app-with-a-java-8-backend-part-ii/
+                                                           http://translatedby.com/you/angularjs-developer-guide/into-ru/?page=27
+														   http://www.programming-free.com/2014/07/resources-that-inspire-to-learn-angularjs.html
+														   http://www.programming-free.com/2014/05/angularjs-retrieve-multiple-checkbox-selected-options.html | http://www.programming-free.com/p/demo.html?url=db.tt/ouy1Deb8&height=550px
+														   
+
+(IntelliJ IDEA ** NodeJS Plugins) https://plugins.jetbrains.com/plugin/6098?pr=idea
+                (Node.js install) https://nodejs.org/
+
+ (Running Unit Tests on Karma) https://www.jetbrains.com/idea/help/running-unit-tests-on-karma.html
+             (Using AngularJS) https://www.jetbrains.com/idea/help/using-angularjs.html
+(Installing Karma and plugins) https://karma-runner.github.io/0.12/intro/installation.html
+                               http://karma-runner.github.io/0.10/intro/installation.html
+							   http://karma-runner.github.io/0.8/config/browsers.html
+
+(npm is the package manager for javascript) https://www.npmjs.com/
+                                            http://habrahabr.ru/post/133363/#npm_install
+                                            https://www.npmjs.com/package/karma
+											https://www.npmjs.com/search?q=karma
+											http://karma-runner.github.io/0.12/index.html
+											http://repo.spring.io/npm-repo/
+											http://stackoverflow.com/questions/28731803/npm-trying-to-download-from-github-instead-of-from-npmjs
+
+             (How to Configure IntelliJ IDEA For Angular JS Testing) http://tatiyants.com/how-to-configure-intellij-idea-for-angular-js-testing/
+                             (Running nodejs and express on Windows) https://coderwall.com/p/mbov6w/running-nodejs-and-express-on-windows
+                                     (Express application generator) http://expressjs.com/starter/generator.html
+(IntelliJ Idea – How to create Node.js project with Express support) http://georgik.sinusgear.com/2012/10/26/intellij-idea-how-to-create-node-js-project-with-express-support/
+               (2. Установка Node.js и создание базового приложения) http://nodeguide.ru/doc/dailyjs-nodepad/node-tutorial-2/
+			   (Getting Started with Testing JavaScript in WebStorm) https://www.youtube.com/watch?v=QQSySPpzmPI
+			           (Introduction & Explore to AngularJS at 2015) https://www.youtube.com/watch?v=u2okVLCrqgE
+			 (Setting-up AngularJS, Angular Seed, Node.js and Karma) https://bardevblog.wordpress.com/2013/07/28/setting-up-angularjs-angular-seed-node-js-and-karma/
+
+https://github.com/joyent/node
+
+(HTML5 простыми словами) http://www.dejurka.ru/articless/html5-in-simple-words/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+http://stepansuvorov.com/blog/2012/12/с-чего-начать-изучение-angularjs/
+http://stepansuvorov.com/blog/2013/06/start-with-angularjs-part2/
+http://stepansuvorov.com/blog/2013/01/testacular-в-помощь-тестированию/
+http://www.sitepoint.com/html-forms-angularjs/
+http://www.webmasters.by/articles/web-programming/3068-html-forms-in-angularjs.html
+( http://localhost/angularjs/tmp/ )
+( http://localhost/angularjs/MyAngularJS_1.html )
+http://demos.angularcode.com/grid/
+( localhost/angularjs/lesson-angular-grid/ )
+http://demos.angularcode.com/product-manager/#/
+( http://localhost/angularjs/product-manager/#/ )
+http://www.angularcode.com/
+https://docs.angularjs.org/guide/compiler
+http://www.programming-free.com/2014/05/angularjs-retrieve-multiple-checkbox-selected-options.html
+http://www.javacodegeeks.com/2014/09/angularjs-tutorial-getting-started-with-angularjs.html
+(Spring Initializr) http://start.spring.io/
+(app/customersApp/views/customers/customers.html) http://weblogs.asp.net/dwahlin/learning-angularjs-by-example-the-customer-manager-application
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(Основы EJB: часть 1) http://j4sq.blogspot.com/2011/10/ejb-1.html
+
+
+
+

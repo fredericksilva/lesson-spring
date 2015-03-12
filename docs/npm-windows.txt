@@ -1,0 +1,102 @@
+
+http://tatiyants.com/how-to-configure-intellij-idea-for-angular-js-testing/
+-------------------------------------------------------------[ How to Configure IntelliJ IDEA For Angular JS Testing ]
+(WebStorm 7 - Karma Integration ) https://www.youtube.com/watch?v=oyWW_V4wALs
+
+http://habrahabr.ru/post/133363/#npm_install
+-------------------------------------------------------------[ Шпаргалка по пакетному менеджеру NPM ]
+(npm) https://github.com/npm/npm
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+http://tatiyants.com/how-to-configure-intellij-idea-for-angular-js-testing/
+https://coderwall.com/p/mbov6w/running-nodejs-and-express-on-windows
+http://iantonov.me/page/yeoman-generator-proektov-dlja-angularjs | https://www.youtube.com/watch?v=FCngOUW-UXg
+http://iantonov.me/page/yeoman-generator-proektov-dlja-angularjs
+https://karma-runner.github.io/0.12/intro/installation.html
+-------------------------------------------------------------[ Running nodejs and express on Windows ]
+> chdir /d d:
+> cd D:\server\www\angularjs\myapp
+> node -v
+> npm -v
+> npm install
+> npm install express -g
+> npm install url -g
+> npm install fresh -g
+> npm install cookie -g
+> npm install methods -g
+> npm install crc -g
+> npm install send -g
+> npm install connect -g
+> npm install commander -g
+
+> npm install express-generator -g
+> npm install karma -g
+> npm install karma-jasmine -g
+> npm install jasmine -g
+> npm install -g generator-angular-fullstack
+> npm install angular-mocks -g
+> npm install -g bower
+> npm install -g yo
+> npm install -g grunt-cli
+> npm install -g karma-cli
+> npm install -g karma-chrome-launcher
+
+D:\server\nodejs\node.exe
+D:\server\nodejs\npm.cmd
+C:\Users\Саша\AppData\Roaming\npm
+( C:\Users\Саша\AppData\Roaming\npm-cache )
+
+
+http://expressjs.com/starter/generator.html
+-------------------------------------------------------------[ Express application generator ]
+> chdir /d d:
+> cd D:\server\www\angularjs\myapp
+( node -v )
+( npm -v )
+( npm install )
+> express -h
+> express myapp
+> cd myapp 
+> npm install
+> set DEBUG=myapp & node .\bin\www
+>> http://localhost:3000/
+
+( D:\server\www\angularjs\myapp\myapp )
+
+http://iantonov.me/page/yeoman-generator-proektov-dlja-angularjs
+-------------------------------------------------------------[ AngularJS + RequireJS + Jasmine + Karma - ����� ��� ����� ����� ]
+cd D:\server\www\angularjs\myapp\myapp2
+bower -v
+bower install angular
+D:\server\www\angularjs\myapp\myapp2\bower_components\angular
+
+
+( http://karma-runner.github.io/0.10/intro/installation.html )
+http://georgik.sinusgear.com/2012/10/26/intellij-idea-how-to-create-node-js-project-with-express-support/
+http://www.denizoguz.com/2013/03/28/html5-development-with-intellij/
+-------------------------------------------------------------[ IntelliJ Idea – How to create Node.js project with Express support ]
+( D:\server\www\angularjs\angularjs-book\nodetest )
+(How to Configure IntelliJ IDEA For Angular JS Testing) http://tatiyants.com/how-to-configure-intellij-idea-for-angular-js-testing/
+(Running nodejs and express on Windows) https://coderwall.com/p/mbov6w/running-nodejs-and-express-on-windows
+(Express application generator) http://expressjs.com/starter/generator.html
+(Setting-up AngularJS, Angular Seed, Node.js and Karma) https://bardevblog.wordpress.com/2013/07/28/setting-up-angularjs-angular-seed-node-js-and-karma/
+
+Error creating Node.js Express App. Wrong express generator: D:\server\www\angularjs\myapp\myapp2\node_modules\express\bin\express
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
